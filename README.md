@@ -3,9 +3,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zhangty099@gmail.com)
 [![Resume](https://img.shields.io/badge/-Resume-blue?logo=adobeacrobatreader&logoColor=white&style=flat)]()
 
-I am Zhang TongYan from Singapore, and I'm currently Year 3 in DigiPen studying CS in Real-Time Interactive Simulations 😃.
+I'm TongYan! 🇸🇬 Year 3 CS (RTIS) undergrad at DigiPen. Passionate about exploring graphics programming, game engines, and game design! 😃
 
-- I am currently undergoing Internship Work Study Program (IWSP) this year with SMRT till 2027 Apr!
+- Currently undergoing Internship Work Study Program (IWSP) this year with SMRT till 2027 Apr!
 
 
 
