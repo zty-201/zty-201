@@ -17,4 +17,4 @@ I am Zhang TongYan from Singapore, and I'm currently Year 3 in DigiPen studying 
 
 
 
-<img align="right" src="github-metrics.svg" width="300" />
+<img align="left" src="github-metrics.svg" width="300" />
